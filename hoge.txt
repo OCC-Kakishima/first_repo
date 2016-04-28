@@ -1,4 +1,6 @@
 file is changed
-file is changed by try-conflict
-a
+file is changed by master
+<<<<<<< HEAD
 
+=======
+>>>>>>> try-conflict
